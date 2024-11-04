@@ -34,9 +34,9 @@
 0//M416_2
 0//M416_3
 0//M416_4
-1010040463  //M416_stock
+0  //M416_stock
 0  //M416_reddot
-100000101000000 //EspSktonThik
+1.0f //EspSktonThik
 0//UAZ
 0//Bigfoot
 0//CoupeRB
@@ -44,7 +44,7 @@
 0//Mirado
 0  //MiniBus
 0  //Boat
-1903193  //Dacia
+0  //Dacia
 0  //Moto
 4151071  //Glider عندما تنزل من طياره
 0//p90
